@@ -1,6 +1,5 @@
 .DS_Store
 .vscode
-/dataset/*
 Takeaways/
 dataset/
 .ipynb_checkpoints/
